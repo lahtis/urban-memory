@@ -12,7 +12,7 @@ bar_width = 1
 
 # absolute filename in the user's home directory in Linux users (python 3.5+).
 home = str(Path.home())
-path = "/test/esitys.csv"
+path = "/test/testList.csv"
 
 home_path = (home + path)
 
